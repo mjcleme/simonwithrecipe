@@ -56,6 +56,5 @@ module.exports = {
   getHighScores,
   foobar,
 };
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/674147a9-3072-469d-99c6-faf1002aad9a" />
 
 ```
